@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Next
-- 🌱 I’m currently learning Elastic Search, Data Science
+- 🔭 I’m currently working on PHP,Drupal,Laravel,Wordpress,CodeIgniter,React.js,Next.js
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate with people who are looking forward in this things
-- 🤔 I’m looking for help with data science pathway.
-- 💬 Ask me about Java
-- 📫 How to reach me: skype : karshil_2309
-- 😄 Pronouns: One Developer Army
-- ⚡ Fun fact: I hate early morning... 
+- 💬 Ask me about PHP
+- 📫 How to reach me: skype : https://www.linkedin.com/in/manali-shah-b29166173/
+- ⚡ Fun fact: I Love early morning... 
 
 
 <a href="https://dev.to/karshil2309">
@@ -22,24 +20,10 @@
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=manalisiddharthshah&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&private=true)
 
 ## Links where you can find me! 
-:pushpin: &nbsp; [Dev Blog](https://dev.to/karshil2309)  
-:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/karshilsheth/)  
-:pushpin: &nbsp; [Email](mailto:karshilsheth@gmail.com)  
+
+:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/manali-shah-b29166173/)  
+:pushpin: &nbsp; [Email](mailto:manalisiddharthshah98@gmail.com)  
 
 
 
-![](https://komarev.com/ghpvc/?username=karshil2309&color=green)
-<!--
-**karshil2309/karshil2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
