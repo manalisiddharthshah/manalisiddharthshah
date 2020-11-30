@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Solr and Java [ Search Engine Platforms]
+- 🔭 I’m currently working on Next
 - 🌱 I’m currently learning Elastic Search, Data Science
 - 👯 I’m looking to collaborate with people who are looking forward in this things
 - 🤔 I’m looking for help with data science pathway.
