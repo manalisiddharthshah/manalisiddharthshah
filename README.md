@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PHP,Drupal,Laravel,Wordpress,CodeIgniter,React.js,Next.js
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on React.js,Next.js,Node.js,AWS
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate with people who are looking forward in this things
-- 💬 Ask me about PHP
+- 💬 Ask me about React
 - 📫 How to reach me: skype : https://www.linkedin.com/in/manali-shah-b29166173/
 - ⚡ Fun fact: I Love early morning... 
 
